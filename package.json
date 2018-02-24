@@ -49,9 +49,6 @@
     "should": "*"
   },
   "dependencies": {
-    "iprange": "^0.1.0",
-    "minimist": "*",
-    "properties-parser": "^0.3.1",
-    "request": "^2.83.0"
+    "minimist": "*"
   }
 }
